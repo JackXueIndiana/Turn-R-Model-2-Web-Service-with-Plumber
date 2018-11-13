@@ -4,5 +4,5 @@
 #* @get /plot
 function(n=100){
   rand <- rnorm(n)
-  hist(rand, main=paste("Histogram oif RNORM ", n))
+  hist(rand, main=paste("Histogram of RNORM n=", n))
 }
