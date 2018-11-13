@@ -9,7 +9,7 @@ To use this package create a swagger web service, you need to
 
 2. Put plumber declamation on each of these function.
 
-3. Write another piece of R script, RplumberSwagger.R, to instaitate the web service with three lines.
+3. Write another piece of R script, RplumberSwagger.R, to instantiate the web service with three lines.
 
 4. Run RplumberSwagger.R and once the web service fully started, you can hit with URL http://127.0.0.1/plot?n=1000. 
 
